@@ -24,10 +24,19 @@ p {
     padding         : 5px 15px;
     font-size       : 20px;
     font-weight     : bold;
-    background-color: pink;
 }
 section {
     padding: 10px;
+}
+
+#title1 {
+    background-color: pink;
+}
+#title2 {
+    background-color: orange;
+}
+#title3 {
+    background-color: lime;
 }
 /*Media queries and custom bootstrap like model for 12 column grid layout below*/
 @media (min-width: 992px) {
